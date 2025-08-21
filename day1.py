@@ -1,3 +1,5 @@
+#https://www.hackerrank.com/challenges/the-minion-game/problem?isFullScreen=true
+
 def minion_game(s):
     vowels = set('AEIOU')
     kevin_score = 0
